@@ -7,7 +7,6 @@ A college student, studying computer science at National Taiwan University of Sc
 
 ### Skills
 
-
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -20,8 +19,6 @@ A college student, studying computer science at National Taiwan University of Sc
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100026307275569" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/JTtNinjaCode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
-<b>My GitHub Stats</b>
 
 <a href="https://github.com/JTtNinjaCode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTtNinjaCode&langs_count=10&title_color=dddddd&text_color=dddddd&icon_color=dddddd&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
