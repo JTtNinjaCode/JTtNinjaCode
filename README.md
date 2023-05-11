@@ -27,4 +27,4 @@ A college student, studying computer science at National Taiwan University of Sc
 
 <a href="http://www.github.com/JTtNinjaCode"><img src="https://github-readme-stats.vercel.app/api?username=JTtNinjaCode&show_icons=true&hide=&title_color=dddddd&text_color=dddddd&icon_color=dddddd&bg_color=0D1117&hide_border=true&show_icons=true" alt="JTtNinjaCode's GitHub stats" /></a>
 
-<a href="http://www.github.com/JTtNinjaCode"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JTtNinjaCode&bg_color=1c1917&color=dddddd&line=dddddd&point=dddddd&area_color=0D1117&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/JTtNinjaCode"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JTtNinjaCode&bg_color=0D1117&color=dddddd&line=dddddd&point=dddddd&area_color=0D1117&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
