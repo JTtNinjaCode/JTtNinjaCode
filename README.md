@@ -1,4 +1,4 @@
-👋Hi! My name is JTtNinjaCode👋
+👋Hi! My name is Brian Hsu👋
 ====================================================================================================================================
 
 A college student, studying computer science at National Taiwan University of Science and Technology Learning Modern C++, Operating System, Computer Graphics.
